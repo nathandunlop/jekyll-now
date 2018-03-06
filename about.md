@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Electric Vehicles market, growth and strategy analyst. Driving growth globally to electrify all forms of transport. Strategy consulting background focusing on the future of Utilities and Energy.
 
-### More Information
+@nathanbdunlop
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+All views and my own, links are not endorsements.
