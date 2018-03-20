@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Welcome to the second volume of the Electric Vehicles Strategy newsletter, the focus this week is on the death of diesels, due to the recent ruling in Germany paving the way for cities to ban older diesel vehicles.
@@ -11,4 +11,3 @@ Welcome to the second volume of the Electric Vehicles Strategy newsletter, the f
 :chart_with_upwards_trend: [Diesels are dirty, NOx Emissions Still 400% Higher Than Lab Figures:](https://cleantechnica.com/2018/03/13/volkswagen-diesel-cars-use-14-fuel-software-fix-nox-emissions-still-400-higher-lab-figures-study-shows/) Real world testing by the Australian Automobile Association (AAA) confirmed that after the recall and fix for VW vehicles they are using 14% more fuel, and emit 400% higher NOx emissions than the official lab figures. "In other words, the “fix” instituted by Volkswagen to reduce emissions to legal levels essentially undid the supposed fuel-economy superiority of its diesel cars, as compared to gas/petrol cars."
 
 :heavy_exclamation_mark: [Diesels and their pollutants cause up to 78k premature deaths in Europe per year:](https://www.eea.europa.eu//publications/air-quality-in-europe-2017) A strong reminder from the European Environment Agency of the damage done from the large penetration of Diesel vehicles in Europe, somewhat due to the diesel gate emissions testing scandal. "The proportion of NO2 (i.e. the NO2/NOx ratio) in vehicle exhaust is considerably higher in diesel vehicles than in petrol”.
-
